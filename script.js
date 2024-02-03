@@ -1,6 +1,8 @@
 //intesivojs15
 //JS3001
+//React08
 //NODEJS
+//codigos para o certificado 
 const   BotaoPlayPause = document.getElementById('play-pause');
 const   audioCapitulo = document.getElementById('audio-capitulo');
 const   botaoAvanca = document.getElementById('proximo');
